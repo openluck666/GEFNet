@@ -13,6 +13,12 @@
 
 
 
+##### **Our dataset**
+
+The dataset including training can be download from [SICE](https://github.com/csjcai/SICE)
+
+Moreover, we also provide results of our method and the comparison methods on [RealHDV](https://github.com/yungsyu99/Real-HDRV) 、 [MEFB](https://github.com/xingchenzhang/MEFB)、 [UltraFusion](https://github.com/OpenImagingLab/UltraFusion) and [MSEC](https://github.com/mahmoudnafifi/Exposure_Correction)
+
 -------------------------------------------------
 ##### **We provide a simple training and testing process as follows:**
 
